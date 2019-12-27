@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Stephen Attwood
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phylodynamics Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Oxford
+  url: "https://www.zoo.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Main interests; cancer phylodynamics, spatial population genetics, phylogeography, host-pathogen evolution.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cancer Phylodynamics
+- Spatial Population Genetics
+- Host:Pathogen Evolution
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc Experimental Therapeutics
+    institution: University of Oxford
+    year: 2018
+  - course: PhD in Parasitology
+    institution: Queen Mary University of London
+    year: 1994
+  - course: BSc Zoology & Microbiology
+    institution: Aberystwyth University
+    year: 1989
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/treebeard522
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +61,17 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher with the [evolve.zoo lab](http://evolve.zoo.ox.ac.uk/Evolve/Home.html) in the Department of Zoology at the University of Oxford. My current research interests include cancer phylodynamics, pathogen population genetics, spatial genetics, and host-pathogen evolutionary relationships. Related interests include bioinformatics, oncology, and applications in translational medicine. I am currently supported by the European Union's [European Research Council](https://ec.europa.eu/programmes/horizon2020/) FP7 Ideas programme.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to moving to Oxford I was based at the [Natural History Museum](https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/stephen-attwood.html) in London working on the parasitic blood-fluke _Schistosoma_. During this time I undertook many field expeditions, leading teams in remote areas of Laos, Cambodia, Malaysia and Indonesia. I later moved my focus to China, working on the Schistosomiasis Control Programme there. My parasitological work resulted in the discovery and naming of several new species and insights into the health and biodiversity [impacts of hydro-power dams](https://www.dw.com/en/a-dam-building-race-threatens-the-mekong-river/a-50049206) in the Mekong Basin. I identified two new foci of schistosomiasis transmission to humans in Cambodia and Laos, greatly expanding the [risk-map for Mekong schistosomiasis](https://www.eurekalert.org/pub_releases/2008-03/plos-msi031408.php) and was the first to report the transmission of this disease outside the Mekong river.
+
+I began my postdoctoral career as an NERC Fellow, following this I was PI on three Project grants awarded to me by the Wellcome Trust. I also held a China National Science Foundation Project Grant, and numerous small awards. I have taught Molecular Ecology at [West China Medical School](https://www.healthcareglobal.com/top10/top-10-largest-hospitals-world), and for a short time as a visitor at Kingston University (London).

@@ -18,27 +18,51 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Researcher"
+  company = "University of Oxford"
+  company_url = "https://www.mpls.ox.ac.uk/"
+  location = "Oxfordshire"
+  date_start = "2019-07-03"
   date_end = ""
-  description = """
+  description = """Infra-Population Genetic approaches to medical problems
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analysis
+  * Scripting
+  * Data-mining
+  * Publishing
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Professor of Epidemiology"
+  company = "West China Medical School"
+  company_url = "http://wcums.scu.edu.cn/"
+  location = "Chengdu"
+  date_start = "2006-04-03"
+  date_end = "2019-01-25"
+  description = """Managed the Phylogenetic Epidemiology Research Group
+
+  Responsibilities included:
+  * Research
+  * Team Management
+  * Teaching (Molecular Biology & Genetics)
+  * Postgraduate Supervision
+"""
+
+[[experience]]
+  title = "Externally Funded PI"
+  company = "The Natural History Museum London"
+  company_url = "https://www.nhm.ac.uk/our-science/our-work/sustainability/population-genetics-schistosomiasis.html"
+  location = "London"
+  date_start = "1995-10-01"
+  date_end = "2006-04-01"
+  description = """PI Asian Schistosomiasis Projects
+
+  Responsibilities included:
+  * Research
+  * Grant Management
+  * Field Work
+  * Postgraduate Supervision
+"""
 
 +++
