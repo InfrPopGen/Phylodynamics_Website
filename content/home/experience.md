@@ -24,10 +24,11 @@ date_format = "Jan 2006"
   location = "Oxfordshire"
   date_start = "2019-07-03"
   date_end = ""
-  description = """Infra-Population Genetic approaches to medical problems
+  description = """Evolutionary approaches to medical problems
   Responsibilities include:
   
   * Analysis
+  * Project design
   * Scripting
   * Data-mining
   * Publishing
